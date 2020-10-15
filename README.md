@@ -1,1 +1,1 @@
-# python-assignments
+# Python Assignments for Beginners
